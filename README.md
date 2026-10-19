@@ -2,9 +2,7 @@
 
 AI go-to-market and partnerships strategist for the public sector, based in Ottawa.
 
-I help government and public safety institutions adopt AI responsibly — moving them from skepticism to real use, through procurement, security and governance reviews, and into the hands of the people doing the work.
-
-**Currently:** Head of North America, Customer and Product Strategy at EchoMind (OSACO), an AI avatar training tool for law enforcement interviewing. I work hands-on with our development team across dev and production environments and the product architecture, connecting how the product is built to what public safety institutions need it to do.
+I take AI from the engineering team to the front line. At EchoMind (OSACO), I lead North American strategy for an AI avatar that trains law enforcement in investigative interviewing. I sit between the people who build the product and the Canadian and U.S. agencies who buy and use it: I translate what the technology can do for leadership, answer the hard questions on privacy and security, and bring what I learn from the field back to our product and go-to-market strategy.
 
 **What I work on**
 - AI adoption and partnerships with U.S. and Canadian government agencies
